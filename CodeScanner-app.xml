@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+
+  <id>com.mathiaspaumgarten.CodeScanner</id>
+
+  <version>1.0</version>
+
+  <filename>CodeScanner</filename>
+
+  <description>Application for counting lines of code, classes, functions, etc. in your ActionScript Project</description>
+
+  <name>CodeScanner</name>
+
+
+
+  <copyright/>
+
+  <initialWindow>
+    <content>CodeScanner.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>auto</renderMode>
+    <maximizable>false</maximizable>
+    <minimizable>false</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+
+  <icon/>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+
+
+
+
+
+</application>
